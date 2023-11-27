@@ -1,0 +1,237 @@
+Name	Capital	Population	Flag
+Afghanistan	Kabul	32890	AF
+Åland Islands	Mariehamn	30	AX
+Albania	Tirana	2830	AL
+Algeria	Algiers	45400	DZ
+American Samoa	Pago Pago	50	AS
+Andorra	Andorra la Vella	80	AD
+Angola	Luanda	33086	AO
+Anguilla	The Valley	15	AI
+Antigua and Barbuda	St. John's	99	AG
+Argentina	Buenos Aires	47327	AR
+Armenia	Yerevan	2964	AM
+Aruba	Oranjestad	111	AW
+Australia	Canberra	25981	AU
+Austria	Vienna	9062	AT
+Azerbaijan	Baku	10186	AZ
+Bahamas	Nassau	393	BS
+Bahrain	Manama	1502	BH
+Bangladesh	Dhaka	165159	BD
+Barbados	Bridgetown	288	BB
+Belarus	Minsk	9256	BY
+Belgium	Brussels	11672	BE
+Belize	Belmopan	430	BZ
+Benin	Porto-Novo	12506	BJ
+Bermuda	Hamilton	64	BM
+Bhutan	Thimphu	763	BT
+Bolivia (Plurinational State of)	Sucre	11797	BO
+Bosnia and Herzegovina	Sarajevo	3321	BA
+Botswana	Gaborone	2410	BW
+Brazil	Brasília	215259	BR
+British Indian Ocean Territory	Road Town	30	IO
+Brunei Darussalam	Bandar Seri Begawan	430	BN
+Bulgaria	Sofia	6520	BG
+Burkina Faso	Ouagadougou	21510	BF
+Burundi	Gitega	12575	BI
+Cambodia	Phnom Penh	15552	KH
+Cameroon	Yaoundé	24348	CM
+Canada	Ottawa	38972	CA
+Cayman Islands	George Town	66	KY
+Central African Republic	Bangui	5633	CF
+Chad	N'Djamena	16818	TD
+Chile	Santiago	19678	CL
+China	Beijing	1412600	CN
+Christmas Island	Flying Fish Cove	2	CX
+Cocos (Keeling) Islands	West Island	1	CC
+Colombia	Bogotá	51049	CO
+Comoros	Moroni	758	KM
+Congo	Brazzaville	5657	CG
+Cook Islands	Avarua	15	CK
+Costa Rica	San José	5163	CR
+Croatia	Zagreb	3889	HR
+Cuba	Havana	11113	CU
+Curaçao	Willemstad	154	CW
+Cyprus	Nicosia	918	CY
+Czechia	Prague	10526	CZ
+Denmark	Copenhagen	5911	DK
+Djibouti	Djibouti (city)	976	DJ
+Dominica	Roseau	72	DM
+Dominican Republic	Santo Domingo	10536	DO
+Congo, Democratic Republic of the	Kinshasa	95241	CD
+Timor-Leste	Dili	1318	TL
+Ecuador	Quito	18081	EC
+Egypt	Cairo	103944	EG
+El Salvador	San Salvador	6826	SV
+Equatorial Guinea	Malabo	1506	GQ
+Eritrea	Asmara	3601	ER
+Estonia	Tallinn	1332	EE
+Eswatini	Mbabane	1172	SZ
+Ethiopia	Addis Ababa	105164	ET
+Falkland Islands (Malvinas)	Stanley	4	FK
+Faroe Islands	Tórshavn	54	FO
+Fiji	Suva	898	FJ
+Finland	Helsinki	5522	FI
+France	Paris	67939	FR
+French Polynesia	Papeete	280	PF
+Gabon	Libreville	2233	GA
+Gambia	Banjul	2487	GM
+Georgia	Tbilisi	3689	GE
+Germany	Berlin	84080	DE
+Ghana	Accra	30832	GH
+Gibraltar	Gibraltar	34	GI
+Greece	Athens	10432	GR
+Greenland	Nuuk	57	GL
+Grenada	St. George's	113	GD
+Guam	Hagåtña	154	GU
+Guatemala	Guatemala City	17110	GT
+Guernsey	Saint Peter Port	63	GG
+Guinea	Conakry	12907	GN
+Guinea-Bissau	Bissau	1646	GW
+Guyana	Georgetown	744	GY
+Haiti	Port-au-Prince	11743	HT
+Honduras	Tegucigalpa	9546	HN
+Hong Kong	Hong Kong	7403	HK
+Hungary	Budapest	9689	HU
+Iceland	Reykjavík	381	IS
+India	New Delhi	1375586	IN
+Indonesia	Jakarta	275774	ID
+Iran (Islamic Republic of)	Tehran	85852	IR
+Iraq	Baghdad	41191	IQ
+Ireland	Dublin	5124	IE
+Isle of Man	Douglas	84	IM
+Israel	Jerusalem[a]	9589	IL
+Italy	Rome	58853	IT
+Ivory Coast	Yamoussoukro	29389	IC
+Jamaica	Kingston	2734	JM
+Japan	Tokyo	125928	JP
+Jersey	Saint Helier	108	JE
+Jordan	Amman	11318	JO
+Kazakhstan	Astana	19327	KZ
+Kenya	Nairobi	47564	KE
+Kiribati	Tarawa	121	KI
+Kosovo	Pristina	1798	XK
+Kuwait	Kuwait City	4671	KW
+Kyrgyzstan	Bishkek	6800	KG
+Lao People's Democratic Republic	Vientiane	7338	LA
+Latvia	Riga	1893	LV
+Lebanon	Beirut	6769	LB
+Lesotho	Maseru	2159	LS
+Liberia	Monrovia	4661	LR
+Libya	Tripoli	7054	LY
+Liechtenstein	Vaduz	39	LI
+Lithuania	Vilnius	2830	LT
+Luxembourg	Luxembourg City	645	LU
+Macao	Macau	683	MO
+Madagascar	Antananarivo	26923	MG
+Malawi	Lilongwe	21508	MW
+Malaysia	Kuala Lumpur	32746	MY
+Maldives	Malé	383	MV
+Mali	Bamako	21474	ML
+Malta	Valletta	520	MT
+Marshall Islands	Majuro	55	MH
+Mauritania	Nouakchott	4271	MR
+Mauritius	Port Louis	1266	MU
+Mexico	Mexico City	128534	MX
+Micronesia (Federated States of)	Palikir	106	FM
+Moldova, Republic of	Chişinău	2597	MD
+Monaco	Monaco	39	MC
+Mongolia	Ulaanbaatar	3462	MN
+Montenegro	Podgorica	621	ME
+Montserrat	Brades (de facto)	5	MS
+Morocco	Rabat	36748	MA
+Mozambique	Maputo	31616	MZ
+Myanmar	Naypyidaw	55295	MM
+Namibia	Windhoek	2550	NA
+Nauru	Yaren (de facto)	12	NR
+Nepal	Kathmandu	29192	NP
+Netherlands	Amsterdam	17753	NL
+New Caledonia	Nouméa	274	NC
+New Zealand	Wellington	5130	NZ
+Nicaragua	Managua	6596	NI
+Niger	Niamey	24113	NE
+Nigeria	Abuja	216747	NG
+Niue	Alofi	2	NU
+Norfolk Island	Kingston[b] (de facto)	2	NF
+Korea (Democratic People's Republic of)	Pyongyang	25660	KP
+North Macedonia	Skopje	1833	MK
+Northern Mariana Islands	Saipan	47	MP
+Norway	Oslo	5456	NO
+Oman	Muscat	4527	OM
+Pakistan	Islamabad	229489	PK
+Palau	Ngerulmud	18	PW
+Palestine, State of	Ramallah (de facto)	5227	PS
+Panama	Panama City	4279	PA
+Papua New Guinea	Port Moresby	9123	PG
+Paraguay	Asunción	7353	PY
+Peru	Lima	33397	PE
+Philippines	Manila	112546	PH
+Pitcairn	Adamstown	0	PN
+Poland	Warsaw	37996	PL
+Portugal	Lisbon	10345	PT
+Puerto Rico	San Juan	3286	PR
+Qatar	Doha	2799	QA
+Romania	Bucharest	19038	RO
+Russian Federation	Moscow	145100	RU
+Rwanda	Kigali	12956	RW
+Saint Barthélemy	Gustavia	10	BL
+Saint Helena, Ascension and Tristan da Cunha	Jamestown	6	SH
+Saint Kitts and Nevis	Basseterre	54	KN
+Saint Lucia	Castries	179	LC
+Saint Martin (French part)	Marigot	32	MF
+Saint Pierre and Miquelon	Saint-Pierre	6	PM
+Saint Vincent and the Grenadines	Kingstown	111	VC
+Samoa	Apia	200	WS
+San Marino	City of San Marino	34	SM
+Sao Tome and Principe	São Tomé	215	ST
+Saudi Arabia	Riyadh	35013	SA
+Senegal	Dakar	17223	SN
+Serbia	Belgrade	6797	RS
+Seychelles	Victoria	99	SC
+Sierra Leone	Freetown	8298	SL
+Singapore	Singapore	5454	SG
+Sint Maarten (Dutch part)	Philipsburg	43	SX
+Slovakia	Bratislava	5435	SK
+Slovenia	Ljubljana	2109	SI
+Solomon Islands	Honiara	728	SB
+Somalia	Mogadishu	16360	SO
+South Africa	Pretoria	60605	ZA
+Korea, Republic of	Seoul	54	KR
+South Georgia and the South Sandwich Islands	Tskhinvali	57	GS
+South Sudan	Juba	13250	SS
+Spain	Madrid	47433	ES
+Sri Lanka	Sri Jayawardenepura Kotte	22156	LK
+Sudan	Khartoum	44828	SD
+Suriname	Paramaribo	598	SR
+Sweden	Stockholm	10503	SE
+Switzerland	Bern (de facto)	8770	CH
+Syrian Arab Republic	Damascus	18276	SY
+Taiwan, Province of China	Taipei (de facto)	23375	TW
+Tajikistan	Dushanbe	9506	TJ
+Tanzania, United Republic of	Dodoma	61281	TZ
+Thailand	Bangkok	66847	TH
+Togo	Lomé	7886	TG
+Tokelau	Atafu	2	TK
+Tonga	Nukuʻalofa	100	TO
+Transnistria	Tiraspol	306	TS
+Trinidad and Tobago	Port of Spain	1368	TT
+Tunisia	Tunis	11804	TN
+Türkiye	Ankara	84680	TR
+Turkmenistan	Ashgabat	6118	TM
+Turks and Caicos Islands	Cockburn Town	45	TC
+Tuvalu	Funafuti	11	TV
+Virgin Islands (U.S.)	Charlotte Amalie	87	VI
+Uganda	Kampala	42886	UG
+Ukraine	Kyiv	41130	UA
+United Arab Emirates	Abu Dhabi	9282	AE
+United Kingdom of Great Britain and Northern Ireland	London	67081	GB
+United States of America	Washington, D.C.	331894	US
+Uruguay	Montevideo	3555	UY
+Uzbekistan	Tashkent	35822	UZ
+Vanuatu	Port Vila	301	VU
+Vatican City	Vatican City (city-state)	1	VC
+Venezuela (Bolivarian Republic of)	Caracas	29267	VE
+Viet Nam	Hanoi	98506	VN
+Wallis and Futuna	Mata Utu	11	WF
+Yemen	Sanaa	31155	YE
+Zambia	Lusaka	18401	ZM
+Zimbabwe	Harare	15179	ZW
